@@ -1,6 +1,5 @@
 #pragma once
 
-#include <iostream>
 
 /**
  *	Prints the multiplication table, seperating rows by spaces and colums by newlines.

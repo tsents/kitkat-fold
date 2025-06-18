@@ -1,5 +1,7 @@
 #include "fold.h"
 
+#include <iostream>
+
 void repeatePrint(std::string expression, int times) {
     for (int i = 0; i < times; i++) {
         std::cout << expression;
