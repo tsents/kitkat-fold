@@ -20,7 +20,7 @@ int printedLength(int number) {
     return len;
 }
 
-void printMulTable(int rows, int cols) {
+void printMultiplicationTable(int rows, int cols) {
     for (int i = 0; i < rows; i++) {
         for (int j = 0; j < cols - 1; j++) {
             int targetPrint = (i + 1) * (j + 1);

@@ -7,7 +7,7 @@
  *  :rows: [IN]	The number of rows in the table.
  *  :cols: [IN]	The number of columns in the table.
  */
-void printMulTable(int rows, int cols);
+void printMultiplicationTable(int rows, int cols);
 /*
  *  Prints the repeated expression (times) times.
  *  :expression: [IN]	The expression to print
@@ -26,4 +26,4 @@ int printedLength(int number);
 /**
  *  Pretty prints a table of integers.
  */
-void printMulTable(int rows, int cols);
+void printMultiplicationTable(int rows, int cols);
