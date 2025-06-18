@@ -1,5 +1,6 @@
 #pragma once
 
+#include <string>
 
 /**
  *	Prints the multiplication table, seperating rows by spaces and colums by newlines.
@@ -23,6 +24,6 @@ int printedLength(int number);
 
 
 /**
- *  Preety prints a table of integers.
+ *  Pretty prints a table of integers.
  */
 void printMulTable(int rows, int cols);
